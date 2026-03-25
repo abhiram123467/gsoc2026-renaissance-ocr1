@@ -27,10 +27,3 @@ graph LR
     G --> H[Text Output]
 
 
-## Architecture
-
-![CRNN Architecture](assets/crnn_architecture.png)
-
-## Problem vs Solution
-
-![Problem Solution](problem_solution.png)
