@@ -34,7 +34,7 @@ graph LR
 
 
 
-# RenAIssance Evaluation Test I: Printed Sources OCR + LLM Integration
+#Evaluation Test I: Printed Sources OCR + LLM Integration
 
 This branch contains the evaluation test for the CERN HSF RenAIssance project. The goal is to perform Optical Character Recognition (OCR) on 17th-century Spanish printed sources and utilize a Large Language Model (LLM) to achieve >90% transcription accuracy.
 
